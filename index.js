@@ -27,6 +27,7 @@ module.exports.signedCookie = signedCookie
 module.exports.signedCookies = signedCookies
 
 /**
+ *
  * Parse Cookie header and populate `req.cookies`
  * with an object keyed by the cookie names.
  *
